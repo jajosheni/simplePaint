@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1477527135 source:c:\users\anonmonster\desktop\c_tuts\simplepaint\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+
+1480282357 source:c:\users\anonmonster\desktop\prolab\simplepaint\main.cpp
+	<graphics.h>
+	<bitmap_image.hpp>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1488845334 source:c:\users\anonmonster\desktop\prolab\paint\simplepaint\main.cpp
+	<graphics.h>
+	<bitmap_image.hpp>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
