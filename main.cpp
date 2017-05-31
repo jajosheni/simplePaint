@@ -8,7 +8,7 @@
 
 #define NOMINMAX
 
-//! @ AUTHOR : SHEME HAMITAJ 
+//! @ AUTHOR : SHENI HAMITAJ 
  
 
 int radius=5;
